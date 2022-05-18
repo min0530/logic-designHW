@@ -1,4 +1,3 @@
-// Code your design here
 module rand_generator(clk,load,q);
   input clk;
   input load; 
